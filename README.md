@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Olá, eu sou o Gustavo!
 
 Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por resolver problemas reais através da tecnologia, com experiência em desenvolvimento backend, mensageria, e soluções inovadoras para o setor rural. Aqui você vai encontrar projetos que refletem meu trabalho, criatividade e comprometimento com soluções de alta qualidade.
@@ -67,5 +67,4 @@ Se você se interessou pelos meus projetos ou deseja trocar ideias, sinta-se à 
 ---
 
 Obrigado por visitar meu perfil! Vamos criar algo incrível juntos! 🌟
-```
 
