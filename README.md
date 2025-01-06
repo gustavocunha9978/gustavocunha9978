@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gustavo!
 
-Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por resolver problemas reais através da tecnologia, com experiência em desenvolvimento backend e frontend. Aqui, você encontrará projetos que refletem meu trabalho, criatividade e comprometimento com soluções de alta qualidade.
+Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por resolver problemas reais através da tecnologia, com experiência em desenvolvimento backend e frontend. Aqui, você encontrará projetos que refletem meu trabalho, criatividade e comprometimento com soluções de alta qualidade. Estudante de data science e machine learning nas horas vagas
 
 ---
 
