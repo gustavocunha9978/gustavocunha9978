@@ -42,7 +42,7 @@ Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por resol
 ## 📞 Contato
 
 - **E-mail:** [gustavocunhasoares@hotmail.com](mailto:gustavocunhasoares@hotmail.com)  
-- **LinkedIn:** [Gustavo Cunha](www.linkedin.com/in/gustavo-cunha-934385184)  
+- **LinkedIn:** [Gustavo Cunha](https://www.linkedin.com/in/gustavo-cunha-934385184)  
 
 ---
 
