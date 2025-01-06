@@ -41,8 +41,8 @@ Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por resol
 
 ## 📞 Contato
 
-- **E-mail:** [gustavo.cunha@biopark.com.br](mailto:gustavo.cunha@biopark.com.br)  
-- **LinkedIn:** [Gustavo Cunha](https://www.linkedin.com/in/seuperfil/)  
+- **E-mail:** [gustavocunhasoares@hotmail.com](mailto:gustavocunhasoares@hotmail.com)  
+- **LinkedIn:** [Gustavo Cunha](www.linkedin.com/in/gustavo-cunha-934385184)  
 
 ---
 
