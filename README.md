@@ -8,7 +8,6 @@ Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por resol
 - 🚀 Focado em soluções baseadas em **Clean Architecture**, princípios **SOLID** e boas práticas de desenvolvimento.
 - 💡 Apaixonado por transformar ideias em projetos reais, como o **RuralWay**, uma solução premiada em hackathon.
 - 🌐 Explorando tecnologias como **Vue 3**, **Laravel**, **Quasar**, **Go** e muito mais.
-- 📍 Baseado no [Biopark](https://biopark.com.br), onde contribuo para projetos inovadores no ecossistema.
 
 ---
 
@@ -47,7 +46,8 @@ Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por resol
 ---
 
 ## ✨ Curiosidades
-- 🏆 Primeiro lugar no **PigData Hackathon** com o projeto RuralWay.  
+- 🏆 Primeiro lugar no **PigData Hackathon** com o projeto RuralWay.
+- 🏆 Primeiro lugar no **Biopark Hackathon** com o projeto Submita.  
 - 🌱 Sempre explorando maneiras de integrar tecnologia ao setor rural e logístico.  
 - 🧩 Amante de desafios e soluções criativas.  
 
