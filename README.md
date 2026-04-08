@@ -1,56 +1,85 @@
-# 👋 Olá, eu sou o Gustavo!
+# 👋 Olá, eu sou o Gustavo Cunha!
 
-Bem-vindo ao meu portfólio no GitHub! Sou um desenvolvedor apaixonado por resolver problemas reais através da tecnologia, com experiência em desenvolvimento backend e frontend. Aqui, você encontrará projetos que refletem meu trabalho, criatividade e comprometimento com soluções de alta qualidade. Estudante de data science e machine learning nas horas vagas
-
----
-
-## 🌟 Sobre Mim
-- 🚀 Focado em soluções baseadas em **Clean Architecture**, princípios **SOLID** e boas práticas de desenvolvimento.
-- 💡 Apaixonado por transformar ideias em projetos reais, como o **RuralWay**, uma solução premiada em hackathon.
-- 🌐 Explorando tecnologias como **Vue 3**, **Laravel**, **Quasar**, **Go** e muito mais.
+💻 Desenvolvedor Fullstack focado em construir soluções escaláveis e resolver problemas reais com tecnologia.  
+🚀 Experiência com backend, frontend e arquitetura de sistemas.  
+🌱 Estudando Data Science e Machine Learning nas horas vagas.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-### Linguagens e Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-
-### Ferramentas
-![Traefik](https://img.shields.io/badge/-Traefik-24B2D1?logo=traefik-mesh&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white&style=for-the-badge)
+- 🔧 Desenvolvo aplicações completas (frontend + backend)
+- 🧠 Forte foco em Clean Architecture e SOLID
+- 🌍 Experiência com APIs, integrações e sistemas reais
+- 🏆 Participação em hackathons com projetos premiados
+- 📈 Sempre evoluindo tecnicamente
 
 ---
 
-## 📌 Projetos Destaque
+## 🛠️ Tecnologias
 
-### [RuralWay 🚜](https://github.com/SeuRepositorioRuralWay)  
-**Categoria:** Logística Rural  
-**Resumo:** Uma solução premiada para otimizar a logística rural, conectando motoristas e empresas. Inclui um app offline para motoristas e um sistema web para empresas.  
-- **Tecnologias:** Node.js, React, Next.js, PostgreSQL  
+### 💻 Backend
+- Node.js  
+- Laravel (PHP)  
+- Django (Python)  
+
+### 🎨 Frontend
+- React  
+- Vue 2 / Vue 3  
+- Quasar Framework  
+
+### 🗄️ Banco de Dados
+- PostgreSQL  
+- MySQL  
+
+### ⚙️ DevOps & Infra
+- Docker  
+- Traefik  
+- Linux  
+- CI/CD  
 
 ---
 
-## 📞 Contato
+## 📌 Projeto Destaque
 
-- **E-mail:** [gustavocunhasoares@hotmail.com](mailto:gustavocunhasoares@hotmail.com)  
-- **LinkedIn:** [Gustavo Cunha](https://www.linkedin.com/in/gustavo-cunha-934385184)  
+### 🚜 RuralWay
+**Logística inteligente para áreas rurais**
+
+Aplicação desenvolvida para melhorar a logística em regiões com baixa conectividade.
+
+- 📱 App mobile offline para motoristas  
+- 🌐 Sistema web para empresas  
+- ⚡ Arquitetura offline-first  
+
+**Stack:** Node.js • React • Next.js • PostgreSQL  
+
+🏆 **1º lugar no PigData Hackathon**
 
 ---
 
-## ✨ Curiosidades
-- 🏆 Primeiro lugar no **PigData Hackathon** com o projeto RuralWay.
-- 🏆 Primeiro lugar no **Biopark Hackathon** com o projeto Submita.  
-- 🌱 Sempre explorando maneiras de integrar tecnologia ao setor rural e logístico.  
-- 🧩 Amante de desafios e soluções criativas.  
+## 🏆 Conquistas
+
+- 🥇 PigData Hackathon – RuralWay  
+- 🥇 Biopark Hackathon – Submita  
 
 ---
 
-Obrigado por visitar meu perfil! Vamos criar algo incrível juntos! 🌟
+## 📫 Contato
+
+- 📧 Email: gustavocunhasoares@hotmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-cunha-934385184  
+
+---
+
+## ⚡ Diferenciais
+
+- 🔍 Foco em resolver problemas reais  
+- 🧩 Facilidade com regras de negócio complexas  
+- ⚙️ Experiência com sistemas em produção  
+- 🚀 Mentalidade de produto + tecnologia  
+
+---
+
+## ✨ Sobre mim
+
+Gosto de transformar ideias em soluções reais. Tenho interesse em arquitetura de software, sistemas escaláveis e aplicações inteligentes — principalmente no setor logístico e rural.
