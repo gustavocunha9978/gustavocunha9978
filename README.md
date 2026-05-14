@@ -48,7 +48,7 @@
 
 ## 💼 Experiência Profissional
 
-### 💻 Desenvolvedor Backend | Benfatto (2025 - Atual)
+### 💻 Desenvolvedor Backend | Benfatto (2025 - 2026)
 - Desenvolvimento de módulos de ERP voltados para logística e operações aduaneiras  
 - Implementação de regras de negócio com Oracle PL/SQL  
 - Otimização de queries e performance de banco de dados  
